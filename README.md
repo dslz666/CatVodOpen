@@ -1,38 +1,46 @@
-# CatVodOpen
-Open version of catvod.
+停止更新，暂停仓库, 停止使用仓库
 
-[🚀TG](https://t.me/catvodapp_offical)
+停止更新，暂停仓库, 停止使用仓库
 
-### **Notice**
+停止更新，暂停仓库, 停止使用仓库
 
-The open version was originally planned to start in december of last year, but it was delayed due to other matters. So the open version is mainly based on the december version from last year, but will include some bug fixes and core feature merges.
+停止更新，暂停仓库, 停止使用仓库
 
-Not being maintained and uncertain whether they will be updated.
+停止更新，暂停仓库, 停止使用仓库
 
-**Those who need it can download and use it, and there is no need to provide feedback on any issues.**
 
-### **Limits**
+停止更新，暂停仓库, 停止使用仓库
 
-- Only local `assets://`, `github://`, `gitee://`, `http(s)://user:pwd@xxx` config is supported, and http config without basic auth is not available. 
-- Only video & cloud disk & audio book & comic & txt novel module.
-- ~~Not supporting sniffing.~~
-- ~~Basic JS interface support.~~
-- Node.js runtime support.
-- No builtin maccms api support.
-- etc.
+停止更新，暂停仓库, 停止使用仓库
 
-### **Download**
-[Release](https://github.com/catvod/CatVodOpen/releases)
+停止更新，暂停仓库, 停止使用仓库
 
-- Windows release only test on `windows11`.
-  
-  - Builtin config `data\flutter_assets\asset\js\index.js.md5`
-- MacOS only test on `Big Sur` and `Monterey`.
+停止更新，暂停仓库, 停止使用仓库
 
-  - Builtin config `*.app/Contents/Frameworks/App.framework/Resources/flutter_assets/asset/js/index.js.md5`
-- iOS only test on `16.0+`.
+停止更新，暂停仓库, 停止使用仓库
 
-  - Builtin config `*.ipa/Payload/Runner.app/Frameworks/App.framework/flutter_assets/asset/js/index.js.md5` 
-- Android only test on `8.0+`, maybe not supported to run on emulators, not support TV.
 
-  - Builtin config `*.apk/assets/flutter_assets/asset/js/index.js.md5` 
+停止更新，暂停仓库, 停止使用仓库
+
+停止更新，暂停仓库, 停止使用仓库
+
+停止更新，暂停仓库, 停止使用仓库
+
+停止更新，暂停仓库, 停止使用仓库
+
+停止更新，暂停仓库, 停止使用仓库
+
+
+
+用途
+该项目被设计和开发仅供学习、研究和安全测试目的。它旨在为安全研究者、学术界人士和技术爱好者提供一个了解和实践网络通信技术的工具。
+
+合法性
+使用者在下载和使用该项目时，必须遵守当地法律和规定。使用者有责任确保他们的行为符合其所在地区的法律、规章以及其他适用的规定。
+
+免责
+作为该项目的作者，我（以下简称“作者”）强调该项目应仅用于合法、道德和教育目的。
+作者不鼓励、不支持也不促进任何形式的非法使用该项目。如果发现该项目被用于非法或不道德的活动，作者将强烈谴责这种行为。
+作者对任何人或团体使用该项目进行的任何非法活动不承担责任。使用者使用该项目时产生的任何后果由使用者本人承担。
+作者不对使用该项目可能引起的任何直接或间接损害负责。
+通过使用该项目，使用者表示理解并同意本免责声明的所有条款。如果使用者不同意这些条款，应立即停止使用
